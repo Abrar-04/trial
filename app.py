@@ -54,17 +54,3 @@ else:
     elif result == 4:
         st.write("Prediction : Tulip")
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
